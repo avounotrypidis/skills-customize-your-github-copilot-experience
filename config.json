@@ -58,6 +58,39 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build modern REST APIs using the FastAPI framework with CRUD operations and data validation.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-02-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "statistics-python",
+      "title": "Statistics with Python",
+      "description": "Data analysis and statistical calculations using pandas and numpy",
+      "path": "assignments/statistics-python",
+      "dueDate": "2026-02-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sample-data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
